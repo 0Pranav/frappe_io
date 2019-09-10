@@ -99,6 +99,7 @@
   * `--test` Specific Test
   * `--module` Run a particular module that has tests
   * `--profile` Runs a Python profiler on the test
+  * `--coverage` Runs coverage check using `python-coveralls`
 * `bench disable-production`  Disables production environment
 
 
